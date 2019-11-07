@@ -1,0 +1,21 @@
+INSERT INTO blogful_articles (title, content, date_published)
+VALUES
+  ('Cats', 'Cats cats cats cats', '2016-01-16 12:00:00'),
+  ('Dogs', 'Dogs dogs dogs dogs dogs', '2016-01-17 12:00:00'),
+  ('Cats & Dogs', 'Wait... Cats and Dogs?', '2016-01-20 12:00:00'),
+  ('Article 4', 'Already out of ideas', '2016-01-24 09:00:00'),
+  ('Article 6', 'Lost article 5', '2016-01-28 12:00:00'),
+  ('Article 5', 'Found article 5', '2016-02-01 12:00:00'),
+  ('Cats2.0', 'New cats found', '2016-02-26 12:00:00'),
+  ('Doggo2.0', 'What if there were two?', '2016-02-28 12:00:00'),
+  ('Articlesss', 'Running out', '2016-03-16 12:00:00'),
+  ('Article 7', 'The return of the article series', '2016-04-16 12:00:00'),
+  ('Catnip', 'Cat intervention', '2016-04-04 12:00:00'),
+  ('Dognip', 'Fake news', '2016-04-30 12:00:00'),
+  ('Planes', 'Aerodynamics', '2017-01-16 12:00:00'),
+  ('Trains', 'Whats next?', '2017-02-16 12:00:00'),
+  ('Automobiles', 'Duh', '2017-03-04 08:00:00'),
+  ('Almost 20', 'Almost there...', '2017-04-18 12:00:00'),
+  ('Getting there', 'Just a few more', '2017-05-16 12:00:00'),
+  ('Just a few', 'More to go until I am done with this', '2018-01-16 12:00:00'),
+  ('Last', 'One. All done. 19 is enough', '2018-04-20 08:00:00');
